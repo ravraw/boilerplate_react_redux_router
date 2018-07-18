@@ -1,0 +1,29 @@
+{
+  "name": "reat_boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "\"react boilerplate with redux-router\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravraw/boilerplate_react_redux_router.git"
+  },
+  "author": "ravraw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravraw/boilerplate_react_redux_router/issues"
+  },
+  "homepage": "https://github.com/ravraw/boilerplate_react_redux_router#readme"
+}
