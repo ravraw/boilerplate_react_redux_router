@@ -13,5 +13,9 @@ Folder structure can differ as needed , common ways are as below:
     b) For large projects :  Create seperate folders for different sections of the app based on            functionality, and add all related "class-based" and "functional-componets" inside,this way each    folder represents a different part of the app with it own shared state .
 
 3.  Create "components" folder and add subfolders for different parts of the app.
-4.  Inside "componets" folder add sub-folders for each part of the app.
-5.  Add a compDirectory.js to componets folder , export all componets to this file , will access componets anywhere from this file.
+
+4.  Add a compDirectory.js to componets folder , export all componets to this file , will access componets anywhere from this file.
+
+Add Redux
+
+1.  npm i redux react-redux redux-thunk;
